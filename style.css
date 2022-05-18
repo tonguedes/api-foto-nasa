@@ -1,0 +1,33 @@
+body{
+    background-image: url(image/starwars.png);
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+
+img{
+    height: 500px;
+    width: 600px;
+    margin-left: 370px;
+}
+input{
+    margin-left: 150px;
+}
+
+h3{
+   margin-left: 700px;
+   color: azure;
+  
+}
+p{
+    color: bisque;
+    border: 1px solid black;
+}
+em{
+    margin-left: 30px;
+    color: black;
+    background-color: azure;
+    border: 1px solid black;
+}
